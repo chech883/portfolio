@@ -743,3 +743,75 @@
     font-size: 14px;
     font-weight: 600;
 }
+@media (max-width: 820px){
+    #about_page{
+        padding: 10px 43px 139px 54px;
+    }
+    .about_text h4{
+        font-size: 20px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        padding: 25px;
+    }
+    .service_list{
+        margin-bottom: 36px;
+        margin-left: 23px;
+    }
+    .progress-line{
+        width: 266px;
+    }
+    .text121{
+        margin-left: 162px;
+    }
+    .text1r {
+        margin-left: 105px;
+    }
+    .text1j {
+        margin-left: 19px;
+    }
+    .text1c {
+        margin-left: 172px;
+    }
+    .text1p {
+        margin-left: 78px;
+    }
+    .text1m {
+        margin-left: 53px;
+    }
+    .centre{
+        margin-left: 154px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .section_project{
+        height: 55vh;
+    }
+    .information_Content{
+        display: flex;
+        margin-left: 63px;
+    }
+    .row img{
+        height: 200px;
+        width: 200px;
+    }
+    .final_div{
+        height: 70vh;
+    }
+    .information_Content12{
+        margin-top: -55px;
+        padding-left: 86px;
+        padding-right: 95px;
+    }
+    .about{
+        height: 93vh;
+    }
+    .home{
+        height: 88vh;
+    }
+
+}
+
